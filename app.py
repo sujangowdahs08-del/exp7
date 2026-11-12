@@ -2,13 +2,13 @@ import unittest
 
 # Application code
 def add(a, b):
-    return a * b
+    return a + b
 
 def subtract(a, b):
-    return a - c
+    return a - b
 
 def multiply(a, b):
-    return a + b
+    return a * b
 
 
 # Automated test cases
